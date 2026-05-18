@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-**AI Applied Scientist** with a **Ph.D. in Artificial Intelligence** from Sapienza University of Rome. I transform research into production-ready AI solutions.
+**Senior AI Applied Scientist** with a **Ph.D. in Artificial Intelligence** from Sapienza University of Rome. I transform research into production-ready AI solutions.
 
 - 🔬 AI Applied Scientist at SylloTips (Rome)
 - 🎓 Ph.D. in AI, Sapienza University (Industrial Doctorate)
