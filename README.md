@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://andreim14.github.io"><img src="https://img.shields.io/badge/Website-0076df?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://scholar.google.com/citations?user=N_eHzKAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://linkedin.com/in/andreim14"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/andrei-stefan-bejgu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
